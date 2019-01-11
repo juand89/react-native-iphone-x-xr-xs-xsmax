@@ -1,0 +1,25 @@
+{
+  "name": "@juand89/react-native-iphone-x-xr-xs-xsmax",
+  "version": "1.0.0",
+  "description": "A small library that checks the size of the iPhone screen and determines if it is iPhone X, XR, XS or XS MAX",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/juand89/react-native-iphone-x-xr-xs-xsmax.git"
+  },
+  "keywords": [
+    "iPhone",
+    "XR",
+    "X",
+    "XS"
+  ],
+  "author": "Juan Diego Urena Vasquez",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/juand89/react-native-iphone-x-xr-xs-xsmax/issues"
+  },
+  "homepage": "https://github.com/juand89/react-native-iphone-x-xr-xs-xsmax#readme"
+}
