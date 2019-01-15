@@ -1,5 +1,5 @@
 {
-  "name": "@juand89/react-native-iphone-x-xr-xs-xsmax",
+  "name": "react-native-iphone-x-xr-xs-xsmax",
   "version": "1.0.0",
   "description": "A small library that checks the size of the iPhone screen and determines if it is iPhone X, XR, XS or XS MAX",
   "main": "index.js",
