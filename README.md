@@ -4,7 +4,7 @@ A small library that checks the size of the iPhone screen and determines if it i
 ## Install
 
 ```
-$ npm install @juand89/react-native-iphone-x-xr-xs-xsmax
+$ npm install react-native-iphone-x-xr-xs-xsmax
 ```
 
 ## Usage
