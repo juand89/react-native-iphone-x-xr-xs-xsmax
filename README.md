@@ -14,3 +14,7 @@ import { isIphoneX } from 'react-native-iphone-x-xr-xs-xsmax'
 
 const HEADER_SIZE = isIphoneX() ? 130 : 100;
 ```
+
+## TODO 
+
+- [ ] Add a native module to check iPhone screen size
