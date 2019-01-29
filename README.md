@@ -4,7 +4,7 @@ A small library that checks the size of the iPhone screen and determines if it i
 ## Install
 
 ```
-$ npm install @juand89/react-native-iphone-x-xr-xs-xsmax
+$ npm install react-native-iphone-x-xr-xs-xsmax --save
 ```
 
 ## Usage
@@ -14,3 +14,7 @@ import { isIphoneX } from 'react-native-iphone-x-xr-xs-xsmax'
 
 const HEADER_SIZE = isIphoneX() ? 130 : 100;
 ```
+
+## TODO 
+
+- [ ] Add a native module to check iPhone screen size
