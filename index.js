@@ -1,8 +1,10 @@
-import { Dimensions, Platform } from 'react-native'
-
-export function isIphoneX() {
+import { Dimensions, Platform, NativeModules } from 'react-native'
+const { Device } = NativeModules
+export async function isIphoneX() {
   const dim = Dimensions.get('window')
-
+  await Device.deviceName((error, name) => {
+    console.log('name', name)
+  })
   return (
     // This has to be iOS
     Platform.OS === 'ios' &&
